@@ -24,6 +24,6 @@ The [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-custom
 ## Conclusion
 By using Support Vector Machines (SVM) for predicting customer churn, companies can build a robust model that can effectively identify at-risk customers and take proactive measures to retain them, ultimately improving customer satisfaction and reducing revenue loss.
 
-If you have and queries feel free to [contact me](123krupajoshi@gmail.com) 
+If you have and queries feel free to [contact me](https://mail.google.com/mail/u/0/#inbox123krupajoshi@gmail.com) 
 
 ## Happy and keep learing !!
